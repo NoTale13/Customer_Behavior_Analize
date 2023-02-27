@@ -1,1 +1,1 @@
-# Customer_Behavior_Analize
+# Customer_Behavior_Analyze
